@@ -8,16 +8,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Mobile
 
-<img src="#" width="300px">
+<img src="https://user-images.githubusercontent.com/66887467/210005055-855ed72d-8d6d-4ed5-8fdc-ef822fbc1fc9.png" width="300px">
 
 ### Desktop
 
-<img src="#" width="400px">
+<img src="https://user-images.githubusercontent.com/66887467/210005123-7930f9d6-6174-405c-8445-844cb6a31987.png" width="400px">
 
 ### Links
 
-- Solution URL: [Frontend Mentor](#)
-- Live Site URL: [Live site with GitHub pages](#)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-SEIOgvdwXR)
+- Live Site URL: [Live site with GitHub pages](https://francogl.github.io/FEMC-QR-code-component/)
 
 ### Built with
 
