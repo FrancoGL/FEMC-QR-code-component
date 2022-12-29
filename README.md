@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Frontend Mentor](#)
-- Live Site URL: [Live site with GitHub pages](#)
+- Live Site URL: [Live site with GitHub pages](https://francogl.github.io/FEMC-QR-code-component/)
 
 ### Built with
 
